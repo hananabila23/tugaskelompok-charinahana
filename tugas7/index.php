@@ -8,7 +8,7 @@
 </head>
 
 <body class="container mt-5">
-    <h2 class="mb-4">Data Mahasiswa</h2>
+    <h2 class="mb-4">Data Mahasiswa (dua doang)</h2>
     <a href="tambahmahasiswa.php" class="btn btn-primary mb-3">+ Tambah Data</a>
     <table class="table table-bordered table-striped">
         <thead class="table-dark">
